@@ -1,0 +1,10 @@
+^C:\USERS\AHMED\DESKTOP\SNAKE-SFML\BUILDS\_DEPS\SFML-SRC\SRC\SFML\WINDOW\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ahmed/Desktop/Snake-SFML -BC:/Users/ahmed/Desktop/Snake-SFML/Builds --check-stamp-file C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-build/src/SFML/Window/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

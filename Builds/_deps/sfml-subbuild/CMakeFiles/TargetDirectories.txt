@@ -1,0 +1,3 @@
+C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/ZERO_CHECK.dir

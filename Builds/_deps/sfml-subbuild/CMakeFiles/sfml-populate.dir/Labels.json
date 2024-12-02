@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/2d6a7a0b7b2f532404f90cae39eed873/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/e2aeda7f2c970bf10f59a57b3ba31b98/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/ahmed/Desktop/Snake-SFML/Builds/_deps/sfml-subbuild/CMakeFiles/988264ce89e66f371e155aef5ceba606/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
